@@ -39,8 +39,6 @@ Repositories and case studies will be added here as they are completed.
 ## 🤝 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/kian-hosseini-85a264425/)
-## Hi there 👋
-
 <!--
 **amirkianhosseini/amirkianhosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
